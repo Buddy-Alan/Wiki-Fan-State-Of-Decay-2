@@ -1,0 +1,48 @@
+* {
+    background-color: black !important;
+    color: white !important;
+    font-size: calc(10px + 0.9vw) !important;
+
+}
+
+body {
+    margin: 2rem;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+
+
+input {
+    background-color: white !important;
+    color: black !important;
+}
+
+.logo {
+    width: 4vw;
+}
+
+.navbar-toggler,
+.navbar-toggler-icon {
+    background-color: #b65f25 !important;
+
+}
+
+.navbar-toggler {
+    margin-right: 3rem;
+}
+
+nav {
+    position: fixed !important;
+    z-index: 100 !important;
+    width: 100%;
+    top: 0;
+}
+
+.parrafoPrincipal,
+#carraousel,
+#requisitos {
+    margin-top: 2rem;
+}
