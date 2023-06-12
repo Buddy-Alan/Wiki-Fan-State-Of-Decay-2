@@ -9,6 +9,11 @@ body {
     margin: 2rem;
 }
 
+#imgPrincpal {
+    width: 100vw;
+    margin-top: 1rem;
+}
+
 a {
     text-decoration: none !important;
 }
@@ -50,5 +55,9 @@ nav {
 @media only screen and (max-width: 900px) {
     .logo {
         width: 8vw;
+    }
+
+    #imgPrincpal {
+        margin-top: 2rem;
     }
 }
